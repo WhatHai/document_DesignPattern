@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/atguigu/adapter/interfaceadapter/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/atguigu/proxy/cglib/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/atguigu/proxy/cglib/ProxyFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/atguigu/proxy/dynamic/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/atguigu/proxy/dynamic/ProxyFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/atguigu/proxy/staticproxy/Client.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
